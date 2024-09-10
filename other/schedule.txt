@@ -1,0 +1,71 @@
+[17 maj] aktualny stan:
+	- Obiekty 1 {
+		stół z szachowanicą		// Mateusz
+		pionki do szachów		// Bartłomiej
+		krzesło				// Mateusz
+		drzewo				// Bartłomiej
+		krzak				// Matthew
+		pieniążek - moneta		// Matthew
+	}
+	- Ustawienie tła sceny {
+		skybox				// Bartłomiej
+		teren				// Bartłomiej
+	}
+	- Obiekty 2 {
+		tabliczka			// Mateusz
+		pudełko od szachów		// Mateusz
+		lizak				// Matthew
+		słoik z pieniędzmi 		// Matthew
+		okulary grymasa			// Bartłomiej
+		?latarnia			// Bartłomiej
+	}
+	- Obiekty 3 {
+		modelowanie, riggowanie, teksturowanie:
+		postać - Grymas(Mężczyzna)	// Bartłomiej
+		postać - Mistrz(Chłopiec)	// Matthew
+		postać - 1Gracz(random)		// Mateusz
+	}
+25 ujęć skończonych
+pozostało 48
+
+[20 maj]
+	Poprawki:
+	- Ruch drzew				// Matthew
+	- Model mistrza				// Matthew
+
+	Bartek: 2 ujęcia, chmury
+	Mateusz: 3 ujęcia
+	Matthew: animacja foliage
+
+[27 maj]
+	Bartek: 2 ujęcia
+	Mateusz: poprawki do kilku poprzednich ujęć
+	Matthew: poprawki elementów statycznych wew. wszystkich scen ujęć, poprawka postaci Mistrza
+
+[03 cze]
+	Bartek: 2 ujęcia
+	Mateusz: 4 ujęcia
+	Matthew: 0 ujęć
+[10 cze]
+	Bartek: 3 ujęcia i poprawki ujęć
+	Mateusz: 4 ujęcia, poprawki ujęć
+	Matthew: 0 ujęć
+[17 cze]
+	Bartek: 5 ujęć
+	Mateusz: 5 ujęć
+	Matthew: 0 ujęć
+
+[24 cze]
+	Bartek: 5 ujęć i poprawki
+	Mateusz: 5 ujęć
+	Matthew: przejścia z GB na MB ujęcia, 2 ujęcia
+[1 lipca - 31 sierpnia]
+	Bartek: render swoich ujęć
+	Mateusz: 4 pozostałe ujęcia
+	Matthew: przejścia z GB na MB ujęcia, Wszystkie pozostałe brakujące ujęcia 
+[1 września - 8 września]
+	Bartek: Montaż Filmu, szukanie pozostałych dzwięków i wmontowanie w materiał dzwięków, dorobienie brakującego modelu lizaka
+	Mateusz: Poprawki do wykonanych ujęć, render swoich ujęć, szukanie dźwięków, wstępny montaż swojej części ujęć.
+	Matthew: Poprawki, plansza, finalizacja.
+[9 września]
+	Oddanie projektu
